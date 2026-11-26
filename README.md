@@ -15,6 +15,7 @@ Do whatever you want with this, just don't forget to give credit where credit is
 python3 encrypt_ter.py poc.sh
 ```
 - VarUpgrade is created, and can now be moved to your USB stick
+- Just try to plug it in first, I have good experience with this. If it doesn't execute:
 - On the car, the actions are:
 1. Open the engineering menu
 2. Press "nav" or "map", or "media" button or whatever to **close** the menu again (and kill the process)
